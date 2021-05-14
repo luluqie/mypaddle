@@ -1,1 +1,1 @@
-# paddlepaddle-demo
+# paddle-demo
